@@ -12,9 +12,15 @@ header {
   margin-bottom: 20px;
 }
 
+p {
+  margin:20px;
+  font-size:20px;
+}
+
 .news {
+  overflow:scroll;
   min-height:200px;
-  background-color:yellow;
+  background-color:#999999;
   width: auto;
   border: 2px solid black;
   border-radius: 5px;
